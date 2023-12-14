@@ -1,8 +1,8 @@
 ## 恩師龍大大的龐大資安課程
 - [滲透測試](PT.md)
 - 系統安全
-- [網路安全](NetworkSecurity.md)
-- 網站安全
+- [網路安全(Network Security)](NetworkSecurity.md)
+- 網站安全(Web Security)
 - [數位鑑識](Forensics.md)
 - [逆向工程](RE.md)
 - [程式安全測試(PWN)](PWN.md)
