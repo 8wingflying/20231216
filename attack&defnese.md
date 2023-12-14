@@ -13,6 +13,8 @@
 - 兩台機器都可以ping 到對方 
 
 # A.駭客攻防實戰營(1):Kali linux 攻擊與滲透測試技術
+- 步驟1:nmap -sV -p- 10.0.2.4
+- 步驟2:
 - nmap
 - metsaploit
 
@@ -47,7 +49,12 @@
     - 範例1: where /R C: svchost
     - 範例2: WHERE /r c:\windows *.exe *.dll *.bat
     - https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/where
-## 實作練習
+### 實作練習
 - 1.使用 cmd 開啟notepad
 - 2.使用工作管理員|詳細資料 找出notepad 的PID
 - 3.行程終止: 使用taskkill /PID XXXX /F  ==> 終止notepad
+
+## powershell指令(comlet)
+- https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/powershell
+- https://learn.microsoft.com/zh-tw/powershell/
+- 適用於系統管理的範例指令碼 https://learn.microsoft.com/zh-tw/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.4
