@@ -21,12 +21,13 @@
 ### 你必須要知道的Windows作業系統常用工具
 - 工作管理員(TaksManager)
 ![win1.png](win1.png)
+
+- 事件檢視器(EventViewser)
 ![win2.png](win2.png)
+- gpedit.msc
 ![win3.png](win3.png)
 ![win4.png](win4.png)
 ![win5.png](win5.png)
-- 事件檢視器(EventViewser)
-- gpedit.msc
 - services.msc
 ### Windows 指令(Windows Commands)
 - 參考網址:https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/windows-commands
