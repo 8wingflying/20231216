@@ -5,6 +5,9 @@
 - 檢視現有NAT網路 == > C:\Program Files\Oracle\VirtualBox>VBoxManage list natnetworks
 - 新增NAT網路 == > C:\Program Files\Oracle\VirtualBox>VBoxManage natnetwork add --netname PT --network "10.0.2.0/24" --enable
 - 再次檢視現有NAT網路 == >C:\Program Files\Oracle\VirtualBox>VBoxManage list natnetworks
+
+![A1.png](A1.png)
+
 # 環境設定2:
 - 確認攻擊機(Kali linux)與靶機(Metasploitable3)在同一個NAT網路
 - 兩台機器都可以ping 到對方 
