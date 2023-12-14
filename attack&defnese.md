@@ -16,6 +16,7 @@
 
 # A.駭客攻防實戰營(1):Kali linux 攻擊與滲透測試技術
 - 步驟1:nmap -sV -p- 10.0.2.4
+![nmap1.png](nmap1.png)
 - 步驟2:
 - nmap
 - metsaploit
