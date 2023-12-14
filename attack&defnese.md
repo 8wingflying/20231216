@@ -18,8 +18,7 @@
 - 步驟1:nmap -sV -p- 10.0.2.4
 ![nmap1.png](nmap1.png)
 - 步驟2:
-- nmap
-- metsaploit
+
 
 
 # B.駭客攻防實戰營(2):如何阻擋駭客攻擊?
@@ -57,7 +56,11 @@
 - 2.使用工作管理員|詳細資料 找出notepad 的PID
 - 3.行程終止: 使用taskkill /PID XXXX /F  ==> 終止notepad
 
-## powershell指令(comlet)
+## powershell指令(Cmdlet)
 - https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/powershell
 - https://learn.microsoft.com/zh-tw/powershell/
+- https://learn.microsoft.com/zh-tw/powershell/scripting/how-to-use-docs?view=powershell-7.3
 - 適用於系統管理的範例指令碼 https://learn.microsoft.com/zh-tw/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.4
+
+## 延伸學習教材1:nmap
+## 延伸學習教材2:metsaploit
