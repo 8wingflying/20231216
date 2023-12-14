@@ -1,0 +1,77 @@
+# 數位鑑識
+- 第1單元	數位鑑識概論
+  - 數位證據(Digital Evidence)
+  - DEFR(Digital Evidence First Responder，數位證據第一線應變人員)
+  - DES(Digital Evidence Specialist，數位證據專家)
+  - 數位證據的基本原則:相關性(relevance)、可靠性(reliability)及充分性(sufficiency)
+  - 最佳實務與作業程序
+    - 美國國家司法研究院(National Institute of Justice，NIJ)發行的【電子犯罪現場調查：第一線應變人員指引】
+    - 英國警察協會(Association of Chief Police Officers，ACPO)發行的【數位證據良好實務指引】
+    - ISO/IEC國際標準：主要以ISO/IEC 27037:2012為主
+    - 我國
+      - 刑事訴訟法第１５５條規範
+      - 政府機關(構)資安事件數位證據保全標準作業程序
+  - ISO/IEC 國際標準
+    - ISO/IEC 27037:2012 Guidelines for identification, collection, acquisition and preservation of digital evidence
+    - ISO/IEC 27041:2015 Guidance on assuring suitability and adequacy of incident investigative method
+    - ISO/IEC 27042:2015 guidelines for the analysis and interpretation of digital evidence
+    - ISO/IEC 27043:2015 Incident investigation principles and processes
+- 第2單元	數位鑑識類型與流程
+  - 數位鑑識類型
+  - 數位鑑識流程:
+    - NIST SP 800-86 Guide to Integrating Forensic Techniques into Incident Response (https://csrc.nist.gov/pubs/sp/800/86/final)
+      - 階段1：蒐集(Collection)
+      - 階段2：檢查(Examination)
+      - 階段3：分析(Analysis)
+      - 階段4：報告(Reporting)
+  - 實作練習1:安裝與使用FTK imager
+    - 硬碟擷取實作練習
+    - USB隨身碟實作練習
+    - 記憶體擷取實作練習
+- 第3單元	檔案系統鑑識分析(File Systems)
+  - 檔案系統(File Systems)
+  - Windows 檔案系統:FAT12 |FAT16|FAT32
+  - Windows 檔案系統:NTFS
+  - Linux 檔案系統:ext/ext2/ext3/ext4
+  - 檔案系統鑑識分析(File System Forensic Analysis)
+    - 搶救已刪除的檔案(Deleted File Recovery)
+    - 文件修補(File Carving)
+    - 文件特徵搜索(File Signature Searching Forensics)
+    - 關鍵詞鑑識(Keyword Forensics)
+    - 時間線分析(Timeline analysis)
+  - 實作練習1: 安裝與使用Autopsy
+    - NIST Hacking Case 
+- 第4單元	Windows系統鑑識實務
+  - Windows Forensics
+    - NTFS檔案系統的Artifacts(詳述於前一章)
+    - 記憶體的Artifacts(詳述於後續章節)
+    - 登錄檔(Registry)
+    - Windows ShellBag
+    - 資源回收桶(Recycle Bin)
+    - 事件日誌(Event Log)
+    - Windows 錯誤回報 (WER, Windows Error Reporting )
+    - 遠端桌面協定快取(Remote Desktop Protocol (RDP) Cache)
+    - ShimCache / AppCompatCache
+    - Amcache
+    - UserAssist
+    - 捷徑(LNK Files)
+    - Jump Lists
+    - Prefetch Files
+  - 實作練習:Windows登錄檔分析
+  - 實作練習:Windows ShellBag與Recycle Bin分析
+- 第5單元	Linux系統鑑識實務
+  - 實作練習：Linux鑑識分析
+- 第6單元	Linux記憶體鑑識實務
+- 第7單元	Windows記憶體鑑識實務
+  - 實作練習：Volatility記憶體鑑識
+  - 實作練習：MemProcFS記憶體鑑識分析
+- 第8單元	網路鑑識(Network Forensics)
+  - 實作練習：惡意流量網路鑑識分析
+    - pcap檔案:https://blueteamlabs.online/home/challenge/network-analysis-malware-compromise-e882f32908
+    - 實作內容A:使用Wireshark分析
+    - 實作內容B:使用NetworkMiner分析
+    - 實作內容C:使用線上Pcap 分析平台分析
+- 第9單元	日誌分析與網站鑑識(Web Forensics)
+  - 實作練習：日誌分析與網站鑑識
+    - 資料來源:https://www.ashemery.com/dfir.html  Challenge #1 - Web Server Case
+
