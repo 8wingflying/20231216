@@ -26,7 +26,11 @@
 4  exploit/multi/elasticsearch/search_groovy_script  2015-02-11       excellent  Yes    ElasticSearch Search Groovy Sandbox Bypass
 5  exploit/multi/misc/xdh_x_exec                     2015-12-04       excellent  Yes    Xdh / LinuxNet Perlbot / fBot IRC Bot Remote Code Execution
 ```
+![metasploit_1.png](metasploit_1.png)
 - 步驟4:use exploit/multi/elasticsearch/script_mvel_rce
+![metasploit_2.png](metasploit_2.png)
+![metasploit_3.png](metasploit_3.png)
+![metasploit_4.png](metasploit_4.png)
 
 
 # B.駭客攻防實戰營(2):如何阻擋駭客攻擊?
