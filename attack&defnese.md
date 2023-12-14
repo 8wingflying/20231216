@@ -36,9 +36,11 @@
   - show options
   - set RHOSTS 10.0.2.4
   - show options
+![metasploit_5.png](metasploit_5.png)
 - 步驟6:進行攻擊 ==> exploit 或者 run
 - 步驟7:攻擊成功
-
+![metasploit_7.png](metasploit_7.png)
+![metasploit_6.png](metasploit_6.png)
 # B.駭客攻防實戰營(2):如何阻擋駭客攻擊?
 ### 你必須要知道的Windows作業系統常用工具
 - 工作管理員(TaksManager)
