@@ -10,7 +10,9 @@
 
 # 環境設定2:
 - 確認攻擊機(Kali linux)與靶機(Metasploitable3)在同一個NAT網路
+![m3_2.png](m3_2.png)
 - 兩台機器都可以ping 到對方 
+![m3_3.png](m3_3.png)
 
 # A.駭客攻防實戰營(1):Kali linux 攻擊與滲透測試技術
 - 步驟1:nmap -sV -p- 10.0.2.4
