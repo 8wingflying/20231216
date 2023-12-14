@@ -18,6 +18,7 @@
 - 步驟1:nmap -sV -p- 10.0.2.4
 ![nmap1.png](nmap1.png)
 - 步驟2:啟動metasploit== > msfconsole
+![metasploit_1.png](metasploit_1.png)
 - 步驟3:search elastic
 ```
 1  auxiliary/scanner/elasticsearch/indices_enum                       normal     Yes    ElasticSearch Indices Enumeration Utility
@@ -26,9 +27,9 @@
 4  exploit/multi/elasticsearch/search_groovy_script  2015-02-11       excellent  Yes    ElasticSearch Search Groovy Sandbox Bypass
 5  exploit/multi/misc/xdh_x_exec                     2015-12-04       excellent  Yes    Xdh / LinuxNet Perlbot / fBot IRC Bot Remote Code Execution
 ```
-![metasploit_1.png](metasploit_1.png)
-- 步驟4:use exploit/multi/elasticsearch/script_mvel_rce
 ![metasploit_2.png](metasploit_2.png)
+- 步驟4:use exploit/multi/elasticsearch/script_mvel_rce
+
 ![metasploit_3.png](metasploit_3.png)
 ![metasploit_4.png](metasploit_4.png)
 
