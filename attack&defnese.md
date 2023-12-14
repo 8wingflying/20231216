@@ -26,9 +26,9 @@
 ![win2.png](win2.png)
 - gpedit.msc
 ![win3.png](win3.png)
+- services.msc
 ![win4.png](win4.png)
 ![win5.png](win5.png)
-- services.msc
 ### Windows 指令(Windows Commands)
 - 參考網址:https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/windows-commands
 - 重要指令練習:
