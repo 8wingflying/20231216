@@ -1,0 +1,21 @@
+# 逆向工程(Reversing Engineering)
+- Linux C Programming
+  - gcc
+  - 從原始程式碼到可執行檔
+  - 函式庫開發
+    - 靜態連結函式庫開發
+    - 動態連結函式庫開發
+  - LD_PRELOAD技術
+- Linux binary analysis
+  - readelf
+  - objdump
+  - file
+  - string
+  - ldd
+- assembly programming
+  - nasm
+- reversing 101
+  - objdump
+  - gdb
+  - radare2
+  - Ghidra
