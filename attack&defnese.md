@@ -20,6 +20,11 @@
 # B.駭客攻防實戰營(2):如何阻擋駭客攻擊?
 ### 你必須要知道的Windows作業系統常用工具
 - 工作管理員(TaksManager)
+![win1.png](win1.png)
+![win2.png](win2.png)
+![win3.png](win3.png)
+![win4.png](win4.png)
+![win5.png](win5.png)
 - 事件檢視器(EventViewser)
 - gpedit.msc
 - services.msc
