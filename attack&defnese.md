@@ -1,10 +1,10 @@
 # 環境設定1:virtualbox安裝與設定
 - 標準安裝virtualbox ==> 下一步下一步就裝好了
 - 使用系統管理員身分啟動cmd
-- 切換到VirtualBox 目錄 ==>  C:\WINDOWS\system32>cd C:\Program Files\Oracle\VirtualBox
-- 檢視現有NAT網路 == > C:\Program Files\Oracle\VirtualBox>VBoxManage list natnetworks
-- 新增NAT網路 == > C:\Program Files\Oracle\VirtualBox>VBoxManage natnetwork add --netname PT --network "10.0.2.0/24" --enable
-- 再次檢視現有NAT網路 == >C:\Program Files\Oracle\VirtualBox>VBoxManage list natnetworks
+- 切換到VirtualBox 目錄 ==> cd C:\Program Files\Oracle\VirtualBox
+- 檢視現有NAT網路 == > VBoxManage list natnetworks
+- 新增NAT網路 == > VBoxManage natnetwork add --netname PT --network "10.0.2.0/24" --enable
+- 再次檢視現有NAT網路 == >VBoxManage list natnetworks
 
 ![A1.png](A1.png)
 
