@@ -14,4 +14,5 @@
 # Bonus 活動 : SecurityFocusOnline 
 # Bonus 活動 : 撰寫你的學習歷程
 
-# 更多資安學習活動
+# 資安宣言
+![資安宣言](資安宣言.gif)
