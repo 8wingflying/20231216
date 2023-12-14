@@ -23,8 +23,9 @@
   - 高階PYTHON程式開發
   - C 程式開發
   - JAVA 程式開發
-- 機器學習與資訊安全(machine Learning and Security)
-- 人工智慧與深度學習
-- 人工智慧與資訊安全
-- Tensorflow人工智慧
-- PyTorch人工智慧
+- 人工智慧與機器學習相關課程
+  - 機器學習與資訊安全
+  - 人工智慧與深度學習
+  - 人工智慧與資訊安全
+  - Tensorflow人工智慧
+  - PyTorch人工智慧
