@@ -1,4 +1,4 @@
-## 滲透測試
+## 滲透測試(Penetration Test)
 - 滲透測試
 - 滲透測試方法論
 - Kali linux 滲透測試工具
