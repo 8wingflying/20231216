@@ -1,8 +1,43 @@
 # 系統安全
-A.作業系統基本觀念
-B.Windows Security
-C.Windows AD Security
-D.Linux Security
-E.系統安全測試與評估
-- 
+- A.作業系統基本觀念
+  - 作業系統
+  - 各種作業系統
+  - 作業系統功能
+    - 行程管理(process management)
+      - 執行緒與並行性
+      - CPU 排班
+      - 行程同步
+      - 死結(deadlock)
+    - 記憶體管理
+      - 主記憶體管理
+      - 虛擬記憶體管理
+    - 檔案系統與儲存裝置管理
+      - 檔案系統
+      - 大量儲存結構
+      - 輸入/輸出系統
+    - 安全與保護
+      - 安全機制
+      - 保護  
+- B.Windows Security
+  - Windows 系統架構
+  - audit policy
+  - Event log
+  - Windows 攻擊模式分析
+    - External BLUE 
+- C.Windows AD Security
+  - Windows AD 企業環境
+  - Group policy
+    - Group Policy Object(GPO)
+  - Windows AD攻擊模式分析   
+- D.Linux Security
+- E.系統安全測試與評估
+  - 弱點掃描:
+    - 單一弱點掃描:
+      - NMAP
+      - Metaploit
+    - NESSUS
+    - OPENVAS
+  - 系統滲透測試
+    - WINDOWS 系統滲透測試
+    - Linux 系統滲透測試 
 
