@@ -11,6 +11,11 @@
 |4:00-4:30|	人生的第一張資安證照:如何考取IPAS 資訊安全工程師初階證照|
 |4:30|	賦歸|
 
+# 恩師 龍大大
 
+![CEH.png](CEH.png) 
+![CHFI.png](CHFI.png) 
+![edu1.jpg](edu1.jpg) 
+![edu2.jpg](edu2.jpg) 
 # 資安宣言
 ![資安宣言](資安宣言.gif)
