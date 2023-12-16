@@ -11,6 +11,7 @@
 |4:00-4:30|	人生的第一張資安證照:如何考取IPAS 資訊安全工程師初階證照|
 |4:30|	賦歸|
 
+
 # 恩師 龍大大
 - [駭客殺手–CEH認證課程](https://www.uuu.com.tw/Course/Show/300/EC-Council-CEH-7-%E9%A7%AD%E5%AE%A2%E6%8A%80%E8%A1%93%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
 ![CEH.png](CEH.png) 
