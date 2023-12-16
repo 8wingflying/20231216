@@ -56,6 +56,13 @@
     - NESSUS
     - OPENVAS
   - 系統滲透測試
-    - WINDOWS 系統滲透測試
-    - Linux 系統滲透測試 
+    - WINDOWS 系統滲透測試(metasploitable-3)
+      - https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities
+      -  
+    - Linux 系統滲透測試(metasploitable-2)
+      - 下載:https://sourceforge.net/projects/metasploitable/
+      - Metasploitable是提供已壓縮完成檔案，供使用者下載後進行解壓縮，再匯入VM中即可執行。
+      - Metasploitable帳號及密碼:msfadmin/msfadmin
+      - 關機語法:sudo poweroff
+      - https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide 
 
