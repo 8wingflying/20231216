@@ -95,7 +95,10 @@
     - ARP Spoofing 
     - IP Spoofing
     - DNS Spoofing 
-  - seesiion attack
+  - session attack
+    - Session Hijacking|Sidejacking
+    - Session Sniffing
+    - Session Prediction  
   - Web Attack 
 - MITRE ATT@CK
 - MITRE d3fend
