@@ -18,18 +18,36 @@
     - 安全與保護
       - 安全機制
       - 保護  
+  - 推薦書籍:作業系統, 10/e (Operating System Concepts, 10/e), Abraham Silberschatz , Peter Raer Galvin , Greg Gagne 著 
 - B.Windows Security
   - Windows 系統架構
   - audit policy
   - Event log
   - Windows 攻擊模式分析
-    - External BLUE 
+    - External BLUE
+  - 推薦書籍:Mastering Windows Security and Hardening - Second Edition, Mark Dunkerley , Matt Tumbarello 
 - C.Windows AD Security
   - Windows AD 企業環境
   - Group policy
     - Group Policy Object(GPO)
   - Windows AD攻擊模式分析   
 - D.Linux Security
+  - 設定安全的 Linux 系統
+    - 保護管理用戶帳戶的安全
+    - 使用防火牆保護您的伺服器
+    - 加密技術
+    - SSH 強化
+  - 掌握檔案和目錄存取控制 (DAC)
+    - 自主存取控制
+    - 存取控制清單(Access Control Lists)和共享目錄管理(Shared Directory Management)
+  - 高階系統強化技術Advanced System Hardening Techniques
+    - 使用 SELinux 和 AppArmor 實施`強制存取控制(Mandatory Access Control)`
+    - 內核強化(Kernel Hardening)和行程隔離(Process Isolation)
+    - 掃描、審核和強化(Scanning, Auditing, and Hardening)
+    - 日誌記錄和日誌安全(Logging and Log Security)
+    - 漏洞掃描和入侵偵測
+    - 防止不需要的程式運行
+  - 推薦書籍:Mastering Linux Security and Hardening - Third Edition, Donald A. Tevault
 - E.系統安全測試與評估
   - 弱點掃描:
     - 單一弱點掃描:
