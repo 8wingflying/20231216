@@ -1,0 +1,33 @@
+# 數位鑑識
+- 第1單元	數位鑑識概論
+- 第2單元	數位鑑識類型與流程
+  - 實作練習1:安裝與使用FTK imager
+    - 硬碟擷取實作練習
+    - USB隨身碟實作練習
+    - 記憶體擷取實作練習
+- 第3單元	檔案系統鑑識分析(File Systems)
+  - 實作練習1: 安裝與使用Autopsy
+    - NIST Hacking Case 
+- 第4單元	Windows系統鑑識實務
+  - 實作練習:Windows登錄檔分析
+  - 實作練習:Windows ShellBag與Recycle Bin分析
+- 第5單元	Linux系統鑑識實務
+  - 實作練習：Linux鑑識分析
+- 第6單元	Linux記憶體鑑識實務
+- 第7單元	Windows記憶體鑑識實務
+  - 實作練習：Volatility記憶體鑑識
+    - OtterCTF
+      - https://blog.csdn.net/weixin_45696568/article/details/116244573
+      - https://h4cking2thegate.github.io/posts/62830/index.html#Play-Time
+    - Def con
+  - 實作練習：MemProcFS記憶體鑑識分析
+- 第8單元	網路鑑識(Network Forensics)
+  - 實作練習：惡意流量網路鑑識分析
+    - pcap檔案:https://blueteamlabs.online/home/challenge/network-analysis-malware-compromise-e882f32908
+    - 實作內容A:使用Wireshark分析
+    - 實作內容B:使用NetworkMiner分析
+    - 實作內容C:使用線上Pcap 分析平台分析
+- 第9單元	日誌分析與網站鑑識(Web Forensics)
+  - 實作練習：日誌分析與網站鑑識
+    - 資料來源:https://www.ashemery.com/dfir.html  Challenge #1 - Web Server Case
+
