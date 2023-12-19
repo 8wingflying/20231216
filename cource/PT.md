@@ -16,6 +16,7 @@
     - DVWA 網站滲透測試
     - WebGoat 網站滲透測試
   - log4j 漏洞測試
+    - 參考資料: https://www.hackingarticles.in/a-detailed-guide-on-log4j-penetration-testing/ 
   - Web IIS 2023漏洞
 
 
